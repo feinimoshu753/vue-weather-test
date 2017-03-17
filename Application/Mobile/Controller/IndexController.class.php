@@ -2,8 +2,8 @@
 namespace Mobile\Controller;
 use Think\Controller;
 
-class AgreementController extends AuthController{
+class IndexController extends BaseController{
 
-	
+
 
 }
