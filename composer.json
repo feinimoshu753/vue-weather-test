@@ -1,0 +1,18 @@
+{
+    "name": "音约吧",
+    "description": "音约吧，让普通人玩音乐",
+    "type": "framework",
+    "keywords": ["音乐启蒙教育"],
+    "homepage": "http://www.yypapa.com",
+    "license": "",
+    "authors": [
+        {
+            "name": "Steven",
+            "email": "steven@meet-future.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "minimum-stability": "dev"
+}
